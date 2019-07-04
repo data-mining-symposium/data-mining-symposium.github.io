@@ -1,0 +1,41 @@
+- title: Jiawei Han
+  name: Jiawei Han
+  subtitle: Abel Bliss Professor at Univeristy of Illinois, Urbana-Champaign
+  img: hanj.jpg
+  thumbnail: hanj.jpg
+  url: https://hanj.cs.illinois.edu/
+
+- title: Pei Jian
+  name: Pei Jian
+  subtitle: Canada Research Chair in Big Data Science
+  img: peij.jpg
+  thumbnail: peij.jpg
+  url: https://www.cs.sfu.ca/~jpei/
+
+- title: Xifeng Yan
+  name: Xifeng Yan
+  subtitle: Professor at University of California, Santa Barbara
+  img: yan.jpg
+  thumbnail: yan.jpg
+  url: https://sites.cs.ucsb.edu/~xyan/
+
+- title: Yizhou Sun
+  name: Yizhou Sun
+  subtitle: Associate Professor at University of California, Los Angeles
+  img: sun.jpg
+  thumbnail: sun.jpg
+  url: http://web.cs.ucla.edu/~yzsun/
+
+- title: Feida Zhu
+  name: Feida Zhu
+  subtitle: Associate Professor at Singapore Management University
+  img: zhu.jpg
+  thumbnail: zhu.jpg
+  url: http://www.mysmu.edu/faculty/fdzhu/
+
+- title: Zhenhui Jessie Li
+  name: Zhenhui Jessie Li
+  subtitle: Associate Professor at Pennsylvania State University
+  img: li.png
+  thumbnail: li.png
+  url: https://faculty.ist.psu.edu/jessieli/Site/index.html

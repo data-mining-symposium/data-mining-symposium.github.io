@@ -1,0 +1,29 @@
+- time: 10:00 AM - 11:30 AM
+  info: "<u>Breakout Brainstorming Sessions</u><br><i>Location: TBD</i><br>Details: TBD"
+
+- time: 11:30 AM - 1:30 PM
+  info: "<u>Lunch</u><br>Details: on your own."
+
+- time: 2:00 PM - 2:45 PM
+  info: "<u>Panel Discussion: Data Mining Research I</u><br><i>Location: TBD</i><br>Details: TBD"
+
+- time: 2:45 PM - 3:00 PM
+  info: "<u>Coffee Break</u>"
+
+- time: 3:00 PM - 3:45 PM
+  info: "<u>Panel Discussion: Data Mining Research II</u><br><i>Location: TBD</i><br>Details: TBD"  
+
+- time: 3:45 PM - 4:00 PM
+  info: "<u>Coffee Break</u>"  
+
+- time: 4:00 PM - 4:45 PM
+  info: "<u>Panel Discussion: Industry Application I</u><br><i>Location: TBD</i><br>Details: TBD"
+
+- time: 4:45 PM - 5:00 PM
+  info: "<u>Coffee Break</u>"
+
+- time: 5:00 PM - 5:45 PM
+  info: "<u>Panel Discussion: Industry Application II</u><br><i>Location: TBD</i><br>Details: TBD"  
+
+- time: 6:00 PM - 8:00 PM
+  info: "<u>Dinner & Networking</u><br><i>Location: TBD</i><br>Details: TBD"  
