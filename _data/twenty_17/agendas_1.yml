@@ -1,29 +1,29 @@
 - time: 10:00 AM - 11:30 AM
-  info: "<u>Breakout Brainstorming Sessions</u><br><i>Location: TBD</i><br>Details: TBD"
+  info: "<u>Breakout Brainstorming Sessions</u><br><i>Location: TBD, a park near San Francisco</i><br>Focus: Ice Breaking"
 
 - time: 11:30 AM - 1:30 PM
-  info: "<u>Lunch</u><br>Details: on your own."
+  info: "<u>Lunch</u><br>On your own"
 
 - time: 2:00 PM - 2:45 PM
-  info: "<u>Panel Discussion: Data Mining Research I</u><br><i>Location: TBD</i><br>Details: TBD"
+  info: "<u>Panel Discussion: Data Mining Research I</u><br>Focus: Past Experience & Current Status"
 
 - time: 2:45 PM - 3:00 PM
   info: "<u>Coffee Break</u>"
 
 - time: 3:00 PM - 3:45 PM
-  info: "<u>Panel Discussion: Data Mining Research II</u><br><i>Location: TBD</i><br>Details: TBD"  
+  info: "<u>Panel Discussion: Data Mining Research II</u><br>Focus: Future Visions"  
 
 - time: 3:45 PM - 4:00 PM
   info: "<u>Coffee Break</u>"  
 
 - time: 4:00 PM - 4:45 PM
-  info: "<u>Panel Discussion: Industry Application I</u><br><i>Location: TBD</i><br>Details: TBD"
+  info: "<u>Panel Discussion: Industry Application I</u><br>Focus: Past Experience & Current Status"
 
 - time: 4:45 PM - 5:00 PM
   info: "<u>Coffee Break</u>"
 
 - time: 5:00 PM - 5:45 PM
-  info: "<u>Panel Discussion: Industry Application II</u><br><i>Location: TBD</i><br>Details: TBD"  
+  info: "<u>Panel Discussion: Industry Application II</u><br>Focus: Future Visions"  
 
 - time: 6:00 PM - 8:00 PM
-  info: "<u>Dinner & Networking</u><br><i>Location: TBD</i><br>Details: TBD"  
+  info: "<u>Dinner & Networking</u>"  
