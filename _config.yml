@@ -17,9 +17,9 @@ social:
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2019_pages']
+include: ['_2017_pages']
 
-plugins:
+plugins_dir:
   - jekyll-sitemap
   - jekyll-seo-tag
 
